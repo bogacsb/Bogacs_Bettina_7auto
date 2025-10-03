@@ -32,6 +32,10 @@ h2{
     padding: 20px 0 20px 0;
 }
 
+.h2-right{
+   text-align: right;
+}
+
 img{
     /* width: 415px;
     height: 250px; */
@@ -41,6 +45,11 @@ img{
 #img-right{
     float: right;
     padding-left: 25px;
+}
+
+.img-left{
+    float: left;
+    padding-right: 25px;
 }
 
 .justify-p-tag{
